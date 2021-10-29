@@ -1,4 +1,6 @@
 # Impression avec csharp
+Description en Francais : 
+
 Le but de cet exemple en C# est de faire en quelque sorte une petite synthèse des fonctions / possibilités d'impression en ligne de code de ce langage.
 
 Il y a 4 exemples d' impression ( voir photos ) avec une difficulté progressive.
@@ -16,6 +18,8 @@ Elle permet avec une simplicité relative de générer des états complexes.
 Développé avec Visual Studio 2019.
 
 ------
+
+Description in English: 
 
 The goal of this example in C # is to make a little synthesis of the functions / possibilities of printing online code of this language.
 
