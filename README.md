@@ -40,4 +40,16 @@ Développé avec Visual Studio 2019.
 
 ------
 
+<p align="center">
+  <img src="https://github.com/Fab2bprog/Impression-avec-csharp/blob/main/screenshoot/3149.png" width="650" title="Exemple chsarp screenshot 1">
+ </p>
+
+<p align="center">
+  <img src="https://github.com/Fab2bprog/Impression-avec-csharp/blob/main/screenshoot/3157.png" width="650" title="Exemple chsarp screenshot 1">
+ </p>
+
+<p align="center">
+  <img src="https://github.com/Fab2bprog/Impression-avec-csharp/blob/main/screenshoot/3163.png" width="650" title="Exemple chsarp screenshot 1">
+ </p>
+
 
