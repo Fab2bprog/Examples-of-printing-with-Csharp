@@ -1,4 +1,25 @@
 # Impression avec csharp
+
+Description in English: 
+
+The goal of this example in C # is to make a little synthesis of the functions / possibilities of printing online code of this language.
+
+There are 4 printing examples (see photos) with progressive difficulty.
+- The first example of printing with a line of text and a horizontal dash.
+- The second where you can print an image of your choice.
+- Another one that includes an example of printing a pie chart (piechart)
+- Then the last one, using the technique of cell printing. It is used in particular to print tables. It works in an arrangement of cells (containing text or numbers) like those found in spreadsheets.
+
+You can choose to print with printer selection, on the default printer, to preview its printing.
+
+If you usually encounter problems with your prints, I have added a pdf document on the cell printing technique.
+This is an interesting technique when you generate impressions from lines of code and do not have a graphical report editor to make your life easier.
+It allows with relative simplicity to generate complex reports.
+
+Developed with Visual Studio 2019.
+
+-----
+
 Description en Francais : 
 
 Le but de cet exemple en C# est de faire en quelque sorte une petite synthèse des fonctions / possibilités d'impression en ligne de code de ce langage.
@@ -19,20 +40,4 @@ Développé avec Visual Studio 2019.
 
 ------
 
-Description in English: 
 
-The goal of this example in C # is to make a little synthesis of the functions / possibilities of printing online code of this language.
-
-There are 4 printing examples (see photos) with progressive difficulty.
-- The first example of printing with a line of text and a horizontal dash.
-- The second where you can print an image of your choice.
-- Another one that includes an example of printing a pie chart (piechart)
-- Then the last one, using the technique of cell printing. It is used in particular to print tables. It works in an arrangement of cells (containing text or numbers) like those found in spreadsheets.
-
-You can choose to print with printer selection, on the default printer, to preview its printing.
-
-If you usually encounter problems with your prints, I have added a pdf document on the cell printing technique.
-This is an interesting technique when you generate impressions from lines of code and do not have a graphical report editor to make your life easier.
-It allows with relative simplicity to generate complex reports.
-
-Developed with Visual Studio 2019.
