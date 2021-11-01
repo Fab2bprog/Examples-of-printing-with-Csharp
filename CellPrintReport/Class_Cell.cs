@@ -8,6 +8,11 @@ using System.Drawing;
 using System.Drawing.Printing;
 using System.Windows.Forms;
 
+// Author: Fabrice GARCIA (20290 BORGO, Haute-Corse, France. November 1, 2021)
+// You are free to include this code in your programs.
+// It is provided to you freely and free of charge without any liability on my part.
+// I only ask you to respect my copyright by keeping my name
+// You can also send me a thank you email to fab2bprog@outlook.fr that will make me happy.
 
 namespace CellPrintReport
 {

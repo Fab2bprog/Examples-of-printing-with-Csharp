@@ -8,3 +8,13 @@ C:\Users\fabga\source\repos\CellPrintReport\CellPrintReport\obj\Debug\CellPrintR
 C:\Users\fabga\source\repos\CellPrintReport\CellPrintReport\obj\Debug\CellPrintReport.exe
 C:\Users\fabga\source\repos\CellPrintReport\CellPrintReport\obj\Debug\CellPrintReport.pdb
 C:\Users\fabga\source\repos\CellPrintReport\CellPrintReport\obj\Debug\CellPrintReport.csproj.AssemblyReference.cache
+C:\Users\fabga\source\repos\GITHUB\Impression-avec-csharp\CellPrintReport\bin\Debug\CellPrintReport.exe.config
+C:\Users\fabga\source\repos\GITHUB\Impression-avec-csharp\CellPrintReport\bin\Debug\CellPrintReport.exe
+C:\Users\fabga\source\repos\GITHUB\Impression-avec-csharp\CellPrintReport\bin\Debug\CellPrintReport.pdb
+C:\Users\fabga\source\repos\GITHUB\Impression-avec-csharp\CellPrintReport\obj\Debug\CellPrintReport.csproj.AssemblyReference.cache
+C:\Users\fabga\source\repos\GITHUB\Impression-avec-csharp\CellPrintReport\obj\Debug\CellPrintReport.Win_Bienvenue.resources
+C:\Users\fabga\source\repos\GITHUB\Impression-avec-csharp\CellPrintReport\obj\Debug\CellPrintReport.Properties.Resources.resources
+C:\Users\fabga\source\repos\GITHUB\Impression-avec-csharp\CellPrintReport\obj\Debug\CellPrintReport.csproj.GenerateResource.cache
+C:\Users\fabga\source\repos\GITHUB\Impression-avec-csharp\CellPrintReport\obj\Debug\CellPrintReport.csproj.CoreCompileInputs.cache
+C:\Users\fabga\source\repos\GITHUB\Impression-avec-csharp\CellPrintReport\obj\Debug\CellPrintReport.exe
+C:\Users\fabga\source\repos\GITHUB\Impression-avec-csharp\CellPrintReport\obj\Debug\CellPrintReport.pdb
