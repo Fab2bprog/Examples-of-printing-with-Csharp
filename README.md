@@ -24,6 +24,8 @@ Description en Francais :
 
 Le but de cet exemple en C# est de faire en quelque sorte une petite synthèse des fonctions / possibilités d'impression en ligne de code de ce langage.
 
+Programme à vocation pedagogique pouvant servir de base au developpement de votre futur application.
+
 Il y a 4 exemples d' impression ( voir photos ) avec une difficulté progressive.
 - Le premier exemple d' impression avec une ligne de texte et un tiret horizontal.
 - Le second où vous pourrez imprimer une image de votre choix.
